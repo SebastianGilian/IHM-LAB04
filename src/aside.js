@@ -6,7 +6,7 @@ const Aside = () => {
                 <input type="text" className="form-control" required ></input>
             </div>
             <div className="mb-3">
-                <label className="form-label">Email</label>
+                <label className="form-label">Eail</label>
                 <input type="text" className="form-control" placeholder="example@gmail.com" ></input>
             </div>
             <div className="mb-3">
